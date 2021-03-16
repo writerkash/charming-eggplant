@@ -63,6 +63,7 @@ models:
           - navy
           - violet
           - magenta
+          - pink
         default: blue
         required: true
       - type: model

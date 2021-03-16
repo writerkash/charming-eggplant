@@ -20,7 +20,7 @@ header:
       style: link
       has_subnav: true
       subnav_links:
-      
+        
     - label: Blog
       url: /blog
       style: link

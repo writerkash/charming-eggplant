@@ -1,5 +1,5 @@
 ---
-title: Applications of Notepad
+title: Applications
 weight: 10
 excerpt: This is the Notepad Applications
 seo:

@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Applications of Notepad
 weight: 10
 excerpt: Applications
 seo:

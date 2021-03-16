@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 weight: 10
-excerpt: lorem-ipsum
+excerpt: Applications
 seo:
   title: ''
   description: ''

@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-weight: 2
+weight: 10
 excerpt: lorem-ipsum
 seo:
   title: ''

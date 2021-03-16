@@ -1,7 +1,7 @@
 ---
 title: Applications of Notepad
 weight: 10
-excerpt: Applications
+excerpt: This is the Notepad Applications
 seo:
   title: ''
   description: ''

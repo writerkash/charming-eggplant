@@ -62,7 +62,8 @@ models:
           - green
           - navy
           - violet
-        default: blue
+          - magenta
+        default: magenta
         required: true
       - type: model
         name: header
